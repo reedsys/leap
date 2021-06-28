@@ -1,0 +1,9 @@
+#!/bin/sh
+
+php TestCli.php -f "value for f" -v -a --required value1 --required value2 --optional="optional value" --option
+
+php TestOutput.php
+
+echo "hellow world!!" | php TestInput.php
+
+php TestDaemon.php --daemon
