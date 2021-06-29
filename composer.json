@@ -1,0 +1,7 @@
+{
+    "name": "reedsys/leap",
+    "description": "PHP cli application framework",
+    "require": {
+        "php": ">=7.4"
+    }
+}
