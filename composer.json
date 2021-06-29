@@ -1,6 +1,6 @@
 {
     "name": "reedsys/leap",
-    "version": "1.0-stable",
+    "versions": "1.0-stable",
     "description": "PHP cli application framework",
     "keywords": ["cli", "framework", "daemon", "stdout", "stderr"],
     "license": "MIT",
