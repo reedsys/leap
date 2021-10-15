@@ -1,8 +1,15 @@
 {
     "name": "reedsys/leap",
     "description": "PHP cli application framework",
+    "type": "library",
     "keywords": ["cli", "framework", "daemon", "stdout", "stderr"],
     "license": "MIT",
+    "authors": [
+        {
+            "name": "PHP Leap",
+            "email": "php-leap@reedsys.net"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "leap\\": "src/leap"
